@@ -1,0 +1,15 @@
+C:\Users\WSR\source\repos\Lesson29_Galimova_Petrov\obj\Debug\Lesson29_Galimova_Petrov.csprojAssemblyReference.cache
+C:\Users\WSR\source\repos\Lesson29_Galimova_Petrov\obj\Debug\MainWindow.g.cs
+C:\Users\WSR\source\repos\Lesson29_Galimova_Petrov\obj\Debug\App.g.cs
+C:\Users\WSR\source\repos\Lesson29_Galimova_Petrov\obj\Debug\Lesson29_Galimova_Petrov_MarkupCompile.cache
+C:\Users\WSR\source\repos\Lesson29_Galimova_Petrov\obj\Debug\Lesson29_Galimova_Petrov_MarkupCompile.lref
+C:\Users\WSR\source\repos\Lesson29_Galimova_Petrov\bin\Debug\Lesson29_Galimova_Petrov.exe.config
+C:\Users\WSR\source\repos\Lesson29_Galimova_Petrov\bin\Debug\Lesson29_Galimova_Petrov.exe
+C:\Users\WSR\source\repos\Lesson29_Galimova_Petrov\bin\Debug\Lesson29_Galimova_Petrov.pdb
+C:\Users\WSR\source\repos\Lesson29_Galimova_Petrov\obj\Debug\MainWindow.baml
+C:\Users\WSR\source\repos\Lesson29_Galimova_Petrov\obj\Debug\Lesson29_Galimova_Petrov.g.resources
+C:\Users\WSR\source\repos\Lesson29_Galimova_Petrov\obj\Debug\Lesson29_Galimova_Petrov.Properties.Resources.resources
+C:\Users\WSR\source\repos\Lesson29_Galimova_Petrov\obj\Debug\Lesson29_Galimova_Petrov.csproj.GenerateResource.cache
+C:\Users\WSR\source\repos\Lesson29_Galimova_Petrov\obj\Debug\Lesson29_Galimova_Petrov.csproj.CoreCompileInputs.cache
+C:\Users\WSR\source\repos\Lesson29_Galimova_Petrov\obj\Debug\Lesson29_Galimova_Petrov.exe
+C:\Users\WSR\source\repos\Lesson29_Galimova_Petrov\obj\Debug\Lesson29_Galimova_Petrov.pdb
