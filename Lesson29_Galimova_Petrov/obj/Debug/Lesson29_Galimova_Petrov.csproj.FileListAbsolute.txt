@@ -13,3 +13,5 @@ C:\Users\WSR\source\repos\Lesson29_Galimova_Petrov\obj\Debug\Lesson29_Galimova_P
 C:\Users\WSR\source\repos\Lesson29_Galimova_Petrov\obj\Debug\Lesson29_Galimova_Petrov.csproj.CoreCompileInputs.cache
 C:\Users\WSR\source\repos\Lesson29_Galimova_Petrov\obj\Debug\Lesson29_Galimova_Petrov.exe
 C:\Users\WSR\source\repos\Lesson29_Galimova_Petrov\obj\Debug\Lesson29_Galimova_Petrov.pdb
+C:\Users\WSR\source\repos\Lesson29_Galimova_Petrov\obj\Debug\UsersWindow.g.cs
+C:\Users\WSR\source\repos\Lesson29_Galimova_Petrov\obj\Debug\UsersWindow.baml
